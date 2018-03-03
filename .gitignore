@@ -1,0 +1,24 @@
+# Created by https://www.gitignore.io/api/code,fsharp
+
+### Code ###
+# Visual Studio Code - https://code.visualstudio.com/
+.settings/
+.vscode/
+tsconfig.json
+jsconfig.json
+
+### fsharp ###
+lib/debug
+lib/release
+Debug
+*.suo
+*.user
+obj
+**/fsac.cache
+bin
+/build/
+*.exe
+!.paket/paket.bootstrapper.exe
+
+
+# End of https://www.gitignore.io/api/code,fsharp
