@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Relationships xmlns="http://schemas.openxmlformats.org/package/2006/relationships">
+  <Relationship Type="http://schemas.microsoft.com/packaging/2010/07/manifest" Target="/Xamarin.Android.Support.Core.UI.nuspec" Id="R3602f1ac48d44425" />
+  <Relationship Type="http://schemas.openxmlformats.org/package/2006/relationships/metadata/core-properties" Target="/package/services/metadata/core-properties/45354dba6823490e964f4df86f202e0c.psmdcp" Id="R2c25911f792640cf" />
+</Relationships>

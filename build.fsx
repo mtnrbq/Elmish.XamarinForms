@@ -10,7 +10,7 @@ let buildDir = "./build_output/"
 let release = LoadReleaseNotes "RELEASE_NOTES.md"
 
 let project = "Elmish.XamarinForms"
-let summary = "F# bindings for using elmish in WPF"
+let summary = "F# bindings for using elmish in Xamarin Forms"
 
 // targetsAreOnSameLevel
 Target "BuildApp" (fun _ ->

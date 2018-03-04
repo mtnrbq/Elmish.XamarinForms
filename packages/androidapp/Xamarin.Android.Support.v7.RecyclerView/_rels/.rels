@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Relationships xmlns="http://schemas.openxmlformats.org/package/2006/relationships">
+  <Relationship Type="http://schemas.microsoft.com/packaging/2010/07/manifest" Target="/Xamarin.Android.Support.v7.RecyclerView.nuspec" Id="R6ba84f0ff1754e6f" />
+  <Relationship Type="http://schemas.openxmlformats.org/package/2006/relationships/metadata/core-properties" Target="/package/services/metadata/core-properties/9c70cb9f6f494d8aa8f2c79af6e9e084.psmdcp" Id="R0d8c55a9b18d4906" />
+</Relationships>
